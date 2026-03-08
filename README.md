@@ -1,4 +1,4 @@
-# Olá, eu sou o Edimilson (dimil) 👋
+# Olá, eu sou o Eddie (dimildesigner) 👋
 
 🎨 Designer → 💻 Desenvolvedor Front-end
 
