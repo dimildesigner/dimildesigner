@@ -1,4 +1,4 @@
-# Olá, eu sou o Eddie (dimildesigner) 👋
+# Olá, eu sou o Eddie 👋
 
 🎨 Designer → 💻 Desenvolvedor Front-end
 
@@ -9,6 +9,10 @@ Tenho formação em **Publicidade e Propaganda** e muitos anos de experiência n
 Minha experiência em **UX/UI Design e prototipação** despertou meu interesse pelo desenvolvimento web. Hoje direciono meus estudos e projetos para **HTML, CSS e JavaScript**, com foco na criação de interfaces modernas, responsivas e centradas na experiência do usuário.
 
 Acredito que a combinação entre **design + desenvolvimento** permite criar produtos digitais mais intuitivos, funcionais e visualmente consistentes.
+
+<br/>
+
+🚀 Sempre em busca do conhecimento, experiência e colaboração de projetos que envolvam **Criatividade e Tecnologia**.
 
 <br/>
 
@@ -88,6 +92,22 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/nodejs-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Agile Scrum"
+    title="Agile Scrum" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/scrum-icon.svg" 
+/>
+<img 
+    align="left" 
+    alt="Salesforce"
+    title="Salesforce" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/salesforce-icon.svg" 
+/>
 
 <br/>
 <br/>
@@ -95,19 +115,11 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
 ### 🎨 Ferramentas de Design
 <img 
     align="left" 
-    alt="Figma"
-    title="Figma" 
+    alt="Adobe InDesign"
+    title="Adobe InDesign" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/dimildesigner/logos_svg/blob/main/figma-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Canva"
-    title="Canva" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/dimildesigner/logos_svg/blob/main/canva-original.svg" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/indesign-icon.svg" 
 />
 <img 
     align="left" 
@@ -127,11 +139,11 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
 />
 <img 
     align="left" 
-    alt="Adobe InDesign"
-    title="Adobe InDesign" 
+    alt="Adobe After Effects"
+    title="Adobe After Effects" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/dimildesigner/logos_svg/blob/main/indesign-icon.svg" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/after-effects-icon.svg" 
 />
 <img 
     align="left" 
@@ -140,14 +152,6 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/premiere-pro-icon.svg" 
-/>
-<img 
-    align="left" 
-    alt="Adobe After Effects"
-    title="Adobe After Effects" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/dimildesigner/logos_svg/blob/main/after-effects-icon.svg" 
 />
 <img 
     align="left" 
@@ -172,6 +176,46 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/character_animator-icon.svg" 
+/>
+<img 
+    align="left" 
+    alt="Adobe XD"
+    title="Adobe XD" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/xd-icon.svg" 
+/>
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/figma-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Canva"
+    title="Canva" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/canva-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Sketchbook"
+    title="Sketchbook" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/sketchbook-icon.svg" 
+/>
+<img 
+    align="left" 
+    alt="CorelDraw"
+    title="CorelDraw" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/coreldraw-icon.svg" 
 />
 
 <br/>
@@ -206,8 +250,6 @@ https://www.linkedin.com/in/dimildesigner
 Portfólio / Projetos  
 https://github.com/dimildesigner
 
----
-
 <br/>
 
-⭐ Sempre aberto a aprender, colaborar e participar de novos projetos em **Desenvolvimento Front-end**.
+
