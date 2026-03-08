@@ -195,19 +195,19 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
 />
 <img 
     align="left" 
-    alt="Canva"
-    title="Canva" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/dimildesigner/logos_svg/blob/main/canva-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Sketchbook"
     title="Sketchbook" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/sketchbook-icon.svg" 
+/>
+<img 
+    align="left" 
+    alt="Canva"
+    title="Canva" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/canva-original.svg" 
 />
 <img 
     align="left" 
@@ -244,12 +244,37 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
 
 ## 👨‍💻 Vamos nos conectar
 
-LinkedIn  
-https://www.linkedin.com/in/dimildesigner
-
-Portfólio / Projetos  
-https://github.com/dimildesigner
+<a href="https://portfolio-zeta-jet-gn5ipqmprl.vercel.app/">
+    <img 
+        align="left" 
+        alt="Portfolio"
+        title="Portfolio" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://github.com/dimildesigner/logos_svg/blob/main/dimildesigner-icon.svg" 
+    />
+</a>
+<a href="https://www.linkedin.com/in/dimildesigner">
+    <img 
+        align="left" 
+        alt="LinkedIn"
+        title="LinkedIn" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://github.com/dimildesigner/logos_svg/blob/main/linkedin-icon.svg" 
+    />
+</a>
+<a href="https://github.com/dimildesigner">
+    <img 
+        align="left" 
+        alt="Github"
+        title="Github" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://github.com/dimildesigner/logos_svg/blob/main/github-icon.svg" 
+    />
+</a>
 
 <br/>
-
+<br/>
 
