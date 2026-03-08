@@ -12,7 +12,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
 
 <br/>
 
-🚀 Sempre em busca do conhecimento, experiência e colaboração de projetos que envolvam **Criatividade e Tecnologia**.
+🚀 Estou sempre em busca de conhecimento, novas experiências e colaboração em projetos que conectam **criatividade e tecnologia**.
 
 <br/>
 
