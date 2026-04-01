@@ -239,7 +239,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     title="Logotipo Inkscape" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/dimildesigner/logos_svg/blob/main/inkscape-original.svg" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/inkscape-3d.svg" 
 />
 <img 
     align="left" 
