@@ -94,6 +94,14 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
 />
 <img 
     align="left" 
+    alt="React.js"
+    title="React.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Agile Scrum"
     title="Agile Scrum" 
     width="30px" 
