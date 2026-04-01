@@ -46,6 +46,14 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
 />
 <img 
     align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React.js"
     title="React.js" 
     width="30px" 
@@ -62,14 +70,6 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/dimildesigner/logos_svg/blob/main/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -78,11 +78,11 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Bootstrap"
+    title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/dimildesigner/logos_svg/blob/main/git-original.svg" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/bootstrap-original.svg" 
 />
 <img 
     align="left" 
@@ -94,11 +94,11 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
 />
 <img 
     align="left" 
-    alt="Node.js"
-    title="Node.js" 
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/dimildesigner/logos_svg/blob/main/nodejs-original.svg" 
+    src="https://github.com/dimildesigner/logos_svg/blob/main/git-original.svg" 
 />
 <img 
     align="left" 
