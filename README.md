@@ -281,7 +281,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
         align="left" 
         alt="Portfolio"
         title="Portfolio" 
-        width="40px" 
+        width="30px" 
         style="padding-right: 10px;" 
         src="https://github.com/dimildesigner/logos_svg/blob/main/dimildesigner-icon.svg" 
     />
@@ -291,7 +291,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
         align="left" 
         alt="LinkedIn"
         title="LinkedIn" 
-        width="40px" 
+        width="30px" 
         style="padding-right: 10px;" 
         src="https://github.com/dimildesigner/logos_svg/blob/main/linkedin-icon.svg" 
     />
@@ -301,7 +301,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
         align="left" 
         alt="Github"
         title="Github" 
-        width="40px" 
+        width="30px" 
         style="padding-right: 10px;" 
         src="https://github.com/dimildesigner/logos_svg/blob/main/github-icon.svg" 
     />
