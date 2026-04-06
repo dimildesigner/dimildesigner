@@ -24,7 +24,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo HTML"
     title="Logotipo HTML" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/html5-original.svg" 
 />
@@ -32,7 +32,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo CSS" 
     title="Logotipo CSS"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/css3-original.svg" 
 />
@@ -40,7 +40,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo JavaScript" 
     title="Logotipo JavaScript"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/javascript-original.svg" 
 />
@@ -48,7 +48,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Node.js"
     title="Logotipo Node.js" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/nodejs-original.svg" 
 />
@@ -56,7 +56,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo React.js"
     title="Logotipo React.js" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/react-original.svg" 
 />
@@ -64,7 +64,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Tailwind" 
     title="Logotipo Tailwind"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/tailwindcss-original.svg" 
 />
@@ -72,7 +72,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo JQuery" 
     title="Logotipo JQuery"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/jquery-original.svg" 
 />
@@ -80,7 +80,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Bootstrap"
     title="Logotipo Bootstrap" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/bootstrap-original.svg" 
 />
@@ -88,7 +88,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Python" 
     title="Logotipo Python"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/python-original.svg" 
 />
@@ -96,7 +96,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Git" 
     title="Logotipo Git"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/git-original.svg" 
 />
@@ -104,7 +104,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Agile Scrum"
     title="Logotipo Agile Scrum" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/scrum-icon.svg" 
 />
@@ -112,7 +112,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Salesforce"
     title="Logotipo Salesforce" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/salesforce-icon.svg" 
 />
@@ -125,7 +125,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Adobe InDesign"
     title="Logotipo Adobe InDesign" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/indesign-icon.svg" 
 />
@@ -133,7 +133,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Adobe Photoshop"
     title="Logotipo Adobe Photoshop" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/photoshop-original.svg" 
 />
@@ -141,7 +141,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Adobe Illustrator"
     title="Logotipo Adobe Illustrator" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/illustrator-original.svg" 
 />
@@ -149,7 +149,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Adobe After Effects"
     title="Logotipo Adobe After Effects" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/after-effects-icon.svg" 
 />
@@ -157,7 +157,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Adobe Premiere"
     title="Logotipo Adobe Premiere" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/premiere-pro-icon.svg" 
 />
@@ -165,7 +165,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Adobe Audition"
     title="Logotipo Adobe Audition" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/audition-icon.svg" 
 />
@@ -173,7 +173,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Adobe Animate"
     title="Logotipo Adobe Animate" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/animate-icon.svg" 
 />
@@ -181,7 +181,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Adobe Character Animator"
     title="Logotipo Adobe Character Animator" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/character_animator-icon.svg" 
 />
@@ -189,7 +189,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Adobe XD"
     title="Logotipo Adobe XD" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/xd-icon.svg" 
 />
@@ -197,7 +197,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Figma"
     title="Logotipo Figma" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/figma-original.svg" 
 />
@@ -205,7 +205,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Sketchbook"
     title="Logotipo Sketchbook" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/sketchbook-icon.svg" 
 />
@@ -213,7 +213,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Canva"
     title="Logotipo Canva" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/canva-original.svg" 
 />
@@ -221,7 +221,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo CorelDraw"
     title="Logotipo CorelDraw" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/coreldraw-icon.svg" 
 />
@@ -229,7 +229,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Gimp"
     title="Logotipo Gimp" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/gimp-original.svg" 
 />
@@ -237,7 +237,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo Inkscape"
     title="Logotipo Inkscape" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/inkscape-3d.svg" 
 />
@@ -245,7 +245,7 @@ Acredito que a combinação entre **design + desenvolvimento** permite criar pro
     align="left" 
     alt="Logotipo CapCut"
     title="Logotipo CapCut" 
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://github.com/dimildesigner/logos_svg/blob/main/capcut-original.svg" 
 />
